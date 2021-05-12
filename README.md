@@ -8,6 +8,7 @@ Portfolio of data science projects completed by me for self learning.
   - [Stone Data Challenge - Portuguese competition](https://github.com/GabrielP98/DataChallengeStone/blob/main/StoneFinalVersion.ipynb): A model to predict the revenues from over two hundred thousand clients for the next 5 months during covid outbreak.
   - [Ames Housing dataset](https://github.com/GabrielP98/data-science/blob/main/house-price/house-price-project.ipynb): With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home. Kaggle's score: top 10%
   - [Store Item Demand Forecasting Challenge](https://github.com/GabrielP98/data-science/blob/main/store-item-demand-forecasting/TimeSeriesFinalVersion.ipynb): A model to predict how much each store will sell for each time for the next 3 months. You are given 5 years of store-item sales data and have to deal with seasonality in a huge dataset. 
+  - [Book Recommender](https://github.com/GabrielP98/EdurekaMasterDS/blob/main/Data%20Science%20Certification%20Training%20with%20Python/M11%20-%20Recommendation%20Systems/RecommenderBooks-CaseStudy1.ipynb): A model to recommend a list of books to the user based on the behavior of similar users.
 
 
 
